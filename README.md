@@ -5,7 +5,7 @@ I am an aspiring problem solver and my areas of interest are Machine learning, W
 
 My GPA is 8.2. 
 
-My interests are 📚 Reading books, ✨ Listening to Music , 💪 Gym. 
+My interests are Reading books,Listening to Music ,Gym. 
 
 💻 Tech Stack
 - **Languages:** Python, C, Java.
