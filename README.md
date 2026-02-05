@@ -3,9 +3,9 @@ I'm Shabnam Banu, an Artificial Intelligence and Machine Learning student from H
 
 I am an aspiring problem solver and my areas of interest are Machine learning, Web dev and DSA.    
 
-My GPA is 8.2. 
+My GPA is 8.6. 
 
-My interests are Reading books,Listening to Music ,Gym. 
+My interests are Reading books,Listening to Music, Gym. 
 
 💻 Tech Stack
 - **Languages:** Python, C, Java.
