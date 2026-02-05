@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm shabnam banu, an Artificial Intelligence and Machine Learning student from Hyderabad, India.    
+I'm Shabnam Banu, an Artificial Intelligence and Machine Learning student from Hyderabad, India.    
 
 I am an aspiring problem solver and my areas of interest are Machine learning, Web dev and DSA.    
 
