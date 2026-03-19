@@ -8,7 +8,6 @@ Check Out My PortFolio Here https://shabnamcodes.netlify.app/
 
 ##  About Me
 - 🏆 **GPA:** 8.6
-- 💡 Passionate about solving real-world problems with AI
 - 📚 Interests: Reading books · Listening to music · Working out
 
 ## Tech Stack
