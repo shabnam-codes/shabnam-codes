@@ -1,5 +1,5 @@
 <h1 align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Shabnam%20Banu&fontSize=50&fontColor=white" /></h1>
-<h3 align="center">AI/ML Student | Aspiring Problem Solver | Hyderabad, India </h3>
+<h3 align="center"> Hyderabad, India </h3>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Deep+Learning+Explorer;Web+Dev+%7C+DSA+Learner;Building+FrameToPhrase+%F0%9F%96%BC%EF%B8%8F" alt="Typing SVG" />
 </p>
