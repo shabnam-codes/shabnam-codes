@@ -7,10 +7,7 @@ Check Out My PortFolio Here https://shabnamcodes.netlify.app/
 
 
 ##  About Me
-- 🎓 **AI & ML Student** 
-- 📍 Based in **Hyderabad, India**
 - 🏆 **GPA:** 8.6
-- 🌱 Actively learning **Machine Learning** and **Web Development**
 - 💡 Passionate about solving real-world problems with AI
 - 📚 Interests: Reading books · Listening to music · Working out
 
